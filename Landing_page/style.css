@@ -1,11 +1,22 @@
 body{
     background-color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
 }
 
 h1{
     color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 p{
     color: rgb(255, 127, 221);
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: orange;
 }
